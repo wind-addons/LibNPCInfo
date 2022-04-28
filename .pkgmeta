@@ -1,0 +1,7 @@
+package-as: LibNPCInfo
+
+ignore:
+  - .gitignore
+  - .gitattributes
+  - .github/*
+  - README.md
