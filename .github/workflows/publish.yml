@@ -2,10 +2,8 @@ name: publish
 
 on:
   push:
-    branches:
-      - main
     tags:
-      - "^v[0-9]*$"
+      - 'v*'
 
 jobs:
   build:
@@ -13,9 +11,9 @@ jobs:
 
     steps:
       - name: Pull the latest version
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Auto Packaging
         uses: BigWigsMods/packager@master
