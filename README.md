@@ -1,4 +1,7 @@
 # LibNPCInfo
+
+Download Sites: [Curse](https://www.curseforge.com/wow/addons/libnpcinfo) | [Wago](https://addons.wago.io/addons/libnpcinfo) | [WowInterface](https://www.wowinterface.com/downloads/info26290-LibNPCInfo.html) | [Github Release](https://github.com/fang2hou/LibNPCInfo/releases)
+
 ## ⚜️ Introduction
 Cause Blizzard do not provide an API for retrieving information about NPCs, this library is created to help you retrieve information about any NPC with its ID.
 
