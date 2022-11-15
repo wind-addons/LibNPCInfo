@@ -1,6 +1,6 @@
 local _G = _G
 local major = "LibNPCInfo"
-local minor = 2
+local minor = 3
 
 local lib = _G.LibStub:NewLibrary(major, minor)
 if not lib then
