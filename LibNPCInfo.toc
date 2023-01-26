@@ -1,5 +1,6 @@
-## Interface: 100002
+## Interface: 100005
 ## Author: fang2hou
+## Version: 1.004
 ## Title: LibNPCInfo
 ## Notes: A library for providing ability of getting NPC information by its ID.
 ## X-Curse-Project-ID: 618664
